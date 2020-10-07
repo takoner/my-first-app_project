@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ffa9cddb-87db-49e5-8c38-aa7b4f9c9bdb/resourceGroups/Tanmoy/providers/Microsoft.Web/sites/thelloworld",
+    "appService.deploySubpath": "dist\\my-first-app"
+}
